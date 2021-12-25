@@ -1,5 +1,18 @@
-// Access  my  movie at: https://drive.google.com/file/d/1dfAct3vF9jmMk6WIaNu95gJ8q7Pv8Oup/view?usp=sharing
-// Modified by Max Aguirre
+
+/* This file contains the entirety of the software-based graphics system.
+   It is divided in several sections, consisting of the different spaces and
+   matrices required for it to work, as well as lighting variables, triangle
+   objects to represent the individual triangles in the model, functions for
+   shading and rasterizing, and building the model with a VTK file titled 
+   "sample_geometry.vtk".
+
+   It also creates 1000 pictures at different camera positions, to be placed in
+   the directory where the program is run. With an application to build a video
+   from the images, a short video can be made. A sample of this can be found at
+   https://drive.google.com/file/d/1dfAct3vF9jmMk6WIaNu95gJ8q7Pv8Oup/view?usp=sharing
+*/
+
+// Max Aguirre
 // May 2021
 
 #include <iostream>
