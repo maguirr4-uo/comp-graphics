@@ -8,8 +8,7 @@
 
    It also creates 1000 pictures at different camera positions, to be placed in
    the directory where the program is run. With an application to build a video
-   from the images, a short video can be made. A sample of this can be found at
-   https://drive.google.com/file/d/1dfAct3vF9jmMk6WIaNu95gJ8q7Pv8Oup/view?usp=sharing
+   from the images, a short video can be made.
 */
 
 // Max Aguirre
